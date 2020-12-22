@@ -1,6 +1,6 @@
 import App from "../src/main";
 
-test("contarPares()", () => {
+test("obtenerSuma()", () => {
   let myApp = new App();
   let inicio = [5, 10, 15, 25];
   let fin = [10, 5, 25, 15];

@@ -15,8 +15,8 @@ Ejercicio demostrar la forma en la que se pueden utilizar las funciones para reu
 
 ## Requerimientos funcionales
 
-1. (3 Puntos) Escribir una función que reciba como parámetros el inicio y fin de un intervalo y determine cuántos números pares existen en ese intervalo. La función deberá funcionar para cualquier valor de inicio y fin. Con inicio=5 y fin=10, regresa 3 y, también con inicio=10 y fin=5 también regresa 3.
-     - `contarPares(inicio, fin);`
+1. (3 Puntos) Escribir una función que reciba como parámetros el inicio y fin de un intervalo y determine cuántos números pares existen en ese intervalo. La función deberá funcionar para cualquier valor de inicio (a) y fin (b). Con a=5 y b=10, regresa 3 y, también con a=10 y b=5 también regresa 3.
+     - `contarPares(a, b);`
 
 2. (3 Puntos) Escribir una función que reciba un número y calcule la suma de la siguiente secuencia: 1/1! + 1/2! + 1/3! + ... 1/numero!.
    - `obtenerSuma(numero);`
